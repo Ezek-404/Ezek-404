@@ -26,7 +26,7 @@
 
 - :seedling: Also, Exploring new Front-end Frameworks to create user-friendly and responsive design.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I create simple projects, like CRUD operations, and many more.
 ---
 
 :hammer_and_wrench: Languages and Tools :
