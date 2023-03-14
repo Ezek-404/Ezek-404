@@ -2,26 +2,27 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ezekiel-flores-36b2a0268/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.facebook.com/ezekiel.flores1204">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/mr.kerchekk/">
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ezek-404&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello there,
+  I'm Ezekiel Flores
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 :man_technologist: About Me :
 
-- :telescope: For now, I've focused in PHP for building web applications.
+- :telescope: For now, I've focused on working with API using PHP for building web applications.
 
 - :seedling: Also, Exploring new Front-end Frameworks to create user-friendly and responsive design.
 
