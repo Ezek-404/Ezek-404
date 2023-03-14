@@ -41,5 +41,5 @@
 </div>
 <br>
 :fire: My Stats :<br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ezek-404&theme=github-dark&border_radius=2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezek-404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ezek-404&theme=github-dark&border_radius=2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezek-404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)]
