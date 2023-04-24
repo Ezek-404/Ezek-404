@@ -22,12 +22,12 @@
 </h1>
 :man_technologist: About Me :
 
-- :telescope: All of my projects are available at <a href="ezek-rf.netlify.app">ezek-rf.netlify.app</a>.
+- 💻: All of my projects are available at <a href="https://ezek-rf.netlify.app/">ezek-rf.netlify.app</a>.
 
-- :seedling: Exploring new Front-end Frameworks to create user-friendly and responsive design.
+- 🔭: Exploring new Front-end Frameworks to create user-friendly and responsive design.
 
-- :zap: In my free time, I enjoy playing music. 
-- 
+- 🎸: In my free time, I enjoy playing music. 
+ 
 - 📫: How to reach me, <a href="floresezekiel1@gmail.com">floresezekiel1@gmail.com</a>.
 ---
 
