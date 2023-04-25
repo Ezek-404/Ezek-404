@@ -22,7 +22,7 @@
 </h1>
 :man_technologist: About Me :
 
-- 💻: All of my projects are available at <a href="https://ezek-rf.netlify.app/">ezek-rf.netlify.app</a>.
+- 💻: All of my projects are available at.
 
 - 🔭: Exploring new Front-end Frameworks to create user-friendly and responsive design.
 
